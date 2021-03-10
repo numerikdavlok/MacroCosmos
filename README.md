@@ -3,7 +3,7 @@ Réseau social de mise en liens des corps de métiers artistiques:
 
 1. Description du projet
 
-xxxx
+yow
 
 2. Services apparentés (concurrents)
 
