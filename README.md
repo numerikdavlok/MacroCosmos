@@ -17,6 +17,8 @@ Il existe également des réseaux dédiés essentiellement au design ou aux prat
 dribble pour le visuel: https://dribbble.com/
 music diffusion pour la musique: https://www.musicdiffusion.com/fr/services/all-our-services/musicdiffusion-social-network/
 
+Il y existe également une plateforme nommée Avid Cloud Collaboration qui permet aux musiciens d'ajouter leur touche artistique à des projets déjà existent. Par contre l'utilisation de cette plateforme est limité qu'aux musiciens. Avid Cloud Collaboration: https://www.avid.com/pro-tools/cloud-collaboration
+
 **3. Bénéfices du projet pour le public cible**
 
 Le projet MacroCosmos donne la possibilité au public cible d'échanger des informations ainsi que des services liés à l'industrie de la culture.
