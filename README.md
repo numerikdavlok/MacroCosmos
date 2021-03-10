@@ -8,6 +8,8 @@ Nous voulons mettre en place une plateforme ludique, interactive et réactive qu
 
 2. Services apparentés (concurrents)
 
+La projet NUA est un projet crée par des étudiants de l'université de Lausanne. NUA est une plateforme qui permets aux artistes de se connecter parmi eux afin de créer des nouveaux projets ou participer dans des projets déjà existants. Ce projet vise particulièrement les étudiants de l'université de Lausanne.
+
 ( https://github.com/ameliemcc/projet_groupe_1) 
 
 3. Bénéfices du projet pour le public cible
