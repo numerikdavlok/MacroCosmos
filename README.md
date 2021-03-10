@@ -6,7 +6,7 @@ Réseau social de mise en liens des corps de métiers artistiques:
 
 Nous voulons mettre en place une plateforme ludique, interactive et réactive qui réunirait plusieurs corps de métiers artistiques. Nous voulions inclure une connectivité entre notre plateforme et d’autre réseaux professionnels et/ou artistique comme linkedin, dribble, soundcloud ou toute autre plateforme contenant des CV et portfolio. nous voulions également permettre aux utilisateurs de se géolocaliser afin de créer des communautés de pratiques internationales comme locales. 
 
-2. Services apparentés (concurrents)
+**2. Services apparentés (concurrents)**
 
 La projet NUA est un projet crée par des étudiants de l'université de Lausanne. NUA est une plateforme qui permets aux artistes de se connecter parmi eux afin de créer des nouveaux projets ou participer dans des projets déjà existants. Ce projet vise particulièrement les étudiants de l'université de Lausanne.
 
@@ -17,7 +17,7 @@ Il existe également des réseaux dédiés essentiellement au design ou aux prat
 dribble pour le visuel: https://dribbble.com/
 music diffusion pour la musique: https://www.musicdiffusion.com/fr/services/all-our-services/musicdiffusion-social-network/
 
-3. Bénéfices du projet pour le public cible
+**3. Bénéfices du projet pour le public cible**
 
 Le projet MacroCosmos donne la possibilité au public cible d'échanger des informations ainsi que des services liés à l'industrie de la culture.
 Le public cible se constitue potentiellement de tous les acteurs de la scène culturelle : artistes visuels (dessins, sculpture, céramique, etc.), designers industriels et graphiques, musiciens, producteurs, opérateurs caméra, monteurs vidéo, etc.
@@ -28,7 +28,7 @@ Cette plateforme permettra aux artistes venant des différents millieux artistiq
 
 De plus le fait que les utilisateurs viennent des différents pays du monde permettra de donner naissance à des projets uniques contenant des touches artistiques qui contiènent des éléments uniques propres à la culture et du pays venant des utilisateurs.
 
-4. Liste des actions possibles pour les différents rôles dans le projet (user, admin, etc.)
+**4. Liste des actions possibles pour les différents rôles dans le projet (user, admin, etc.)**
 
 User :
 
