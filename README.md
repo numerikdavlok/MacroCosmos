@@ -12,6 +12,11 @@ La projet NUA est un projet crée par des étudiants de l'université de Lausann
 
 ( https://github.com/ameliemcc/projet_groupe_1) 
 
+Il existe également des réseaux dédiés essentiellement au design ou aux pratiques visuelles, d’autres dédiés essentiellement à la musique, mais peut croise les disciplines
+
+dribble pour le visuel: https://dribbble.com/
+music diffusion pour la musique: https://www.musicdiffusion.com/fr/services/all-our-services/musicdiffusion-social-network/
+
 3. Bénéfices du projet pour le public cible
 
 Le projet MacroCosmos donne la possibilité au public cible d'échanger des informations ainsi que des services liés à l'industrie de la culture.
