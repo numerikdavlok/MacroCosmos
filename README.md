@@ -26,6 +26,8 @@ L'objectif de la plateforme est de proposer un espace de partage de connaissance
 
 Cette plateforme permettra aux artistes venant des différents millieux artistiques se connecter afin de pouvoir contribuer dans des nouveaux projets ou des projets déjà existents.
 
+De plus le fait que les utilisateurs viennent des différents pays du monde permettra de donner naissance à des projets uniques contenant des touches artistiques qui contiènent des éléments uniques propres à la culture et du pays venant des utilisateurs.
+
 4. Liste des actions possibles pour les différents rôles dans le projet (user, admin, etc.)
 
 xxxx
