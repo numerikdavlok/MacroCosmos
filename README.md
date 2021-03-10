@@ -35,6 +35,8 @@ De plus le fait que les utilisateurs viennent des différents pays du monde perm
 User :
 
 Chaque utilisateur doit compléter un formulaire d'information lors de l'inscription donnant des données biographiques, géographiques et de compétences professionnelles.
+Il commence par créer un compte en renseignant les informations habituelles comme un email, mot de passe, et nom d'utilisateur. Il renseigne également ses domaines d'intérêt: musique, illustration, vidéo, écriture, théâtre, couture, pimpage de voitures... Il a également la possibilité de renseigner, non obligatoirement, son nom et prénom, sa localisation, numéro de téléphone, une biographie, et des liens vers ses profils sur d'autres plateformes, comme Soundcloud, Art Station, etc. 
+
 
 Nous imaginons plusieurs types d'interfaces pour les utilisateurs:
 - Interface type "Découverte" : avec une archistecture s'inspirant du modèle _swipe_ de Tinder. L'utilisation de cette interface commence par la sélection de différents critères (champ artistique, compétence, données géographiques, etc.). Lorsque ces critères sont déterminés, des profils y correspondant sont sélectionnés et proposé aux utilisateurs sous forme de cartes à _swiper_.
