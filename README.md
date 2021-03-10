@@ -32,6 +32,8 @@ De plus le fait que les utilisateurs viennent des différents pays du monde perm
 
 User :
 
+Chaque utilisateur doit compléter un formulaire d'information lors de l'inscription donnant des données biographiques, géographiques et de compétences professionnelles.
+
 Nous imaginons plusieurs types d'interfaces pour les utilisateurs:
 - Interface type "Découverte" : avec une archistecture s'inspirant du modèle _swipe_ de Tinder. L'utilisation de cette interface commence par la sélection de différents critères (champ artistique, compétence, données géographiques, etc.). Lorsque ces critères sont déterminés, des profils y correspondant sont sélectionnés et proposé aux utilisateurs sous forme de cartes à _swiper_.
 - Interface type "Réseau" : avec un fil d'actualité permettant de rester informer sur les activités des individus faisant partie de notre réseau (soit que l'on a _swipé_ droit soit qu'on l'on ajouté manuellement à partir d'une recherche). 
@@ -39,5 +41,6 @@ Nous imaginons plusieurs types d'interfaces pour les utilisateurs:
 
 Admin :
 
-xxxx
-
+- Maintenance 
+- Administration
+- Modération
