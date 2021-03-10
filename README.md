@@ -7,7 +7,7 @@ xxxx
 
 2. Services apparentés (concurrents)
 
-xxxx
+( https://github.com/ameliemcc/projet_groupe_1) 
 
 3. Bénéfices du projet pour le public cible
 
@@ -17,4 +17,4 @@ xxxx
 
 xxxx
 
-( https://github.com/ameliemcc/projet_groupe_1) 
+
